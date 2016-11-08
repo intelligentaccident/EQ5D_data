@@ -1,0 +1,11 @@
+Package: EQ5Ddata
+Type: Package
+Title: Some publicly available EQ-5D datasets
+Version: 0.1.0
+Authors@R: c(
+    person("Kim", "Rand-Hendriksen", , "kim.rand-hendriksen@medisin.uio.no", c("aut", "cre"))
+    )
+Description: Some publicly available EQ-5D datasets. At the momemt, only a practice dataset for generating DCE+TTO hybrids.
+License: GPL-3
+LazyData: TRUE
+RoxygenNote: 5.0.1.9000
