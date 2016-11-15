@@ -4,7 +4,7 @@
 \name{hyregdata}
 \alias{hyregdata}
 \title{Example TTO and DCE hybrid data.}
-\format{A data frame with 57 variables:
+\format{A data frame with 58 variables:
  \describe{
    \item{\code{id}}{id}
    \item{\code{VAS}}{Visual Analogue Scale score}

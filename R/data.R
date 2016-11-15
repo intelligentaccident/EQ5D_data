@@ -2,7 +2,7 @@
 #'
 #' Contains information on EQ-5D health states, type of valuation (TTO/DCE), resulting value, etc.
 #'
-#' @format A data frame with 57 variables:
+#' @format A data frame with 58 variables:
 #'  \describe{
 #'    \item{\code{id}}{id}
 #'    \item{\code{VAS}}{Visual Analogue Scale score}
